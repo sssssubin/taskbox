@@ -39,4 +39,4 @@ Then execute it by issuing the following in the command line to build and deploy
 > Figma 디자인과 일치하는 stroybook URL 붙여넣기
 Paste a story URL that matches the Figma design.
 4-2. Figma -> storybook
-> npm install storybook-addon-designs 
+> https://storybook.js.org/addons/storybook-addon-designs/
