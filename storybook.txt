@@ -23,7 +23,7 @@
 > git push -u origin main
 
 3-3. Get Chromatic
-> npm insatll -D chromatic
+> npm install -D chromatic
 
 3-4. Copy the unique project-token
 https://www.chromatic.com/start/?utm_source=storybook_website&utm_medium=link&utm_campaign=storybook
