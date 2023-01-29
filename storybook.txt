@@ -30,4 +30,13 @@ https://www.chromatic.com/start/?utm_source=storybook_website&utm_medium=link&ut
 
 3-5. project-token that was generated for your project. 
 Then execute it by issuing the following in the command line to build and deploy our Storybook
-> px chromatic --project-token=909b3010bdc7
+> npx chromatic --project-token=토큰번호
+
+
+4. Figma + storybook
+4-1. Figma <- storybook
+> Figma에서 Plugin 'storybook connect' 설치
+> Figma 디자인과 일치하는 stroybook URL 붙여넣기
+Paste a story URL that matches the Figma design.
+4-2. Figma -> storybook
+> npm install storybook-addon-designs 
